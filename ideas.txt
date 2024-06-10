@@ -1,0 +1,7 @@
+Idea for predicting result of Euro Games:
+The dataframe  will be indexed by a triple of 2 teams and a date.
+The label is a multiclass: win/draw/defeat (?). Think here more, is the triple
+in the index ordered or not. What does it mean to be home-team or away team.
+The feature will be players described by their clubs as a ranking in fifa. (Maybe
+to include the manager somehow?)
+Other important features to include?
